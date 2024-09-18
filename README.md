@@ -1,17 +1,19 @@
 # Hi there, I'm Muhammad Saleem 👋
 
-🎓 **Data Analysis Student | Python | SQL | Machine Learning Enthusiast**
+---
 
-I'm currently studying data analysis and developing my skills in data cleaning, exploratory data analysis, visualization, and machine learning. Welcome to my GitHub profile, where I document my journey and share projects, resources, and tools that I use!
+🎓 **Data Analyst | Python | SQL | Machine Learning**
+
+I’m passionate about finding insights in data and transforming it into actionable business decisions. Here, you'll find some of my projects and tools in the field of data analysis, including machine learning, data visualization, and SQL queries.
 
 ---
 
-### 🌱 **What I’m Learning:**
-- 📊 Data analysis with **Python** (Pandas, NumPy, Matplotlib, Seaborn)
-- 🤖 Machine learning with **scikit-learn**
-- 🧑‍💻 SQL for querying databases
-- 📈 Data visualization with **Tableau** and **Power BI**
-- 📝 Data storytelling and reporting
+### 🔧 **What I Do:**
+- Exploratory Data Analysis (EDA) with Python (Pandas, NumPy, Matplotlib, Seaborn)
+- Data Cleaning and Preprocessing
+- Building Machine Learning Models (scikit-learn, TensorFlow)
+- Writing SQL queries to extract insights
+- Data Visualization with Tableau and Power BI
 
 ---
 
@@ -24,13 +26,6 @@ I'm currently studying data analysis and developing my skills in data cleaning, 
 
 ---
 
-### 📚 **Resources I’m Using**:
-- **Python for Data Analysis** 
-- **Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow**
-- **Mode Analytics SQL Tutorial**
-- **Kaggle Datasets for practice**
-
----
 ### 🔗 **Connect with Me**:
 - LinkedIn: [https://www.linkedin.com/in/muhammad-saleem-4ba038194/](https://www.linkedin.com/in/muhammad-saleem-4ba038194/)
   
