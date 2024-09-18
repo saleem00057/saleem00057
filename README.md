@@ -31,11 +31,18 @@ I'm currently studying data analysis and developing my skills in data cleaning, 
 - **Kaggle Datasets for practice**
 
 ---
-
 ### 🔗 **Connect with Me**:
 - LinkedIn: [https://www.linkedin.com/in/muhammad-saleem-4ba038194/](https://www.linkedin.com/in/muhammad-saleem-4ba038194/)
+  
 - Email: [muhammadsaleem00057@gmail.com](mailto:muhammadsaleem00057@gmail.com)
 
+---
+### 📊 GitHub Stats:
+
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=saleem00057&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saleem00057&layout=compact&theme=radical)
+---
 
 
 
