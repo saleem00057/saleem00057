@@ -5,6 +5,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=round-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/muhammad-saleem-4ba038194)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=round-square&logo=Gmail&logoColor=white)](muhammadsaleem00057@gmail.com)
+[![Facebook](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/muhammadsaleem057)
 
 ---
 
