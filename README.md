@@ -7,40 +7,20 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=round-square&logo=Gmail&logoColor=white)](muhammadsaleem00057@gmail.com)
 [![Facebook](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/muhammadsaleem057)
 
----
+I'm an aspiring **Data Scientist** with a strong passion for working with data, solving problems, and learning new technologies. I am currently diving deep into Python and the key libraries for data analysis and machine learning, including **NumPy**, **Pandas**, and **Scikit-learn**.
 
-### 🚀 **About me**
-Python developer with a passion for building efficient, scalable solutions. With a solid foundation in programming and software development.
-I am dedicated to writing clean, maintainable code and continuously improving my skills.
+### 🔥 What I'm working on:
+- **Data Preprocessing**: Cleaning, transforming, and structuring data using **Pandas**.
+- **Data Visualization**: Creating insightful visualizations with **Matplotlib** and **Seaborn**.
+- **Machine Learning**: Building predictive models and fine-tuning them with **Scikit-learn**.
+- **Deep Learning**: Exploring **TensorFlow** and **PyTorch** for building neural networks.
 
----
+### 🚀 Current Learning Goals:
+- Improving model deployment skills
+- Getting hands-on with **NLP** and **Time Series Analysis**
+- Mastering model evaluation metrics and cross-validation techniques
 
-### 🔧🎓 **Skills**
-- Python Programming: Proficient in developing applications and automation scripts.
-- Data Manipulation: Experience with libraries like Pandas and NumPy.
-- Web Development: Familiar with frameworks like Flask and Django.
-- Version Control: Skilled in using Git for collaboration and code management.
-
----
-
-### 🙌**Current Focus:**
-I am currently expanding my expertise in data engineering. My goal is to design and implement robust data pipelines and leverage big data technologies.
-I am particularly interested in:
-- Data warehousing
-- ETL processes
-- Cloud platforms (AWS, Google Cloud)
-
----
-
-### 🏅 **Projects**
-I enjoy working on personal and open-source projects that challenge my skills and allow me to learn new technologies. Check out my repositories for examples of my work!
-
----
-
-### ⚙️🛠️ **Tools and Technologies**
-- Programming Languages: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-- Data Analysis: ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=NumPy&logoColor=white)
-- Machine Learning: ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate or discuss anything data-related! 😊
 
 ---
 
