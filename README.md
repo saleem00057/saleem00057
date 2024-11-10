@@ -2,6 +2,9 @@
 
 # I'm Muhammad Saleem
 ---
+## Contact Me
+
+[![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-Click%20to%20Chat-green)](https://wa.me/+923000300057)
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=round-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/muhammad-saleem-4ba038194)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=round-square&logo=Gmail&logoColor=white)](muhammadsaleem00057@gmail.com)
